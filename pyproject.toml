@@ -1,0 +1,10 @@
+[project]
+name = "htb-api-client"
+version = "0.1.0"
+description = "HTB API CLient for universities and users data"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+]
